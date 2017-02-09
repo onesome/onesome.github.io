@@ -1,0 +1,450 @@
+@import url(xiangying.css);
+.box{
+    width:100%;
+    height:1.40rem;background:#29a6dc;position: relative;
+}
+.box .zi{
+    width:100%;
+    height:auto;
+    padding-top:0.5rem;font-size: 0.36rem;
+    text-align: center;
+    color:#fff;
+}
+.box img{
+    width:0.49rem;position: absolute;
+    height:0.49rem;
+    right:0.2rem;
+    top:0.66rem;
+}
+.box .ying{
+    width:100%;
+    height:auto;
+    font-size: 0.18rem;
+    text-align: center;
+    color:#fff;
+}
+.banner{
+    width:100%;
+    height:3.24rem;margin-top:0.42rem;
+    position: relative;
+}
+.banner .banner2{
+    display: block;width:6.67rem;
+    height:3.24rem;
+    margin:0 auto;
+    border:2px solid #fff;
+    border-radius: 0.05rem;
+    position: absolute;left:0.42rem;
+    z-index:10;
+    box-shadow: 0 0 12px 2px #c6c6c6 ;
+}
+.banner .banner3{
+    display: block;width:7.04rem;
+    height:2.92rem;
+    margin:0 auto;
+    border:2px solid #fff;
+    border-radius: 0.05rem;
+    position: absolute;
+    left:0.22rem;
+    top:0.15rem;
+    z-index:5;
+    box-shadow: 0 0 12px 2px #c6c6c6 ;
+}
+.yuan{
+    width:0.47rem;
+    height:0.08rem;
+    margin:0 auto;
+    margin-top: 0.21rem;
+}
+.yuan .small{
+    width:0.08rem;
+    height:0.08rem;
+    float: left;
+    margin-left:0.11rem;
+    border:1px solid #3fabfe;border-radius: 50%;
+}
+.yuan .small1{
+    width:0.08rem;
+    height:0.08rem;
+    float: left;
+    background: #3fabfe;border-radius: 50%;
+}
+.hua{
+    width:100%;
+    height:4.96rem;
+    background: url("../images/4.png") no-repeat 0.38rem 0.26rem;
+    background-size: 0.30rem 0.30rem;
+}
+.hua .zui{
+    width:6.68rem;
+    height:auto;
+    margin-left:0.82rem;
+    padding-top:0.2rem;
+    font-size: 0.30rem;
+    color: #333;
+}
+.hua .ying{
+    width:6.68rem;
+    height:auto;
+    margin-left:0.82rem;
+    font-size: 0.22rem;
+    color: #666;
+}
+.hua .kuai{
+    width:7.24rem;
+    height:4.12rem;
+    margin-left:0.26rem; padding-top:0.34rem;
+}
+.hua .cun{
+    width:2.50rem;
+    height:3.60rem;
+    background:url("../images/5.png") no-repeat;
+    background-size: 2.50rem 3.60rem;
+    box-shadow: 0 0 12px 2px #c6c6c6 ;
+    border:1px solid #fff;
+    float: left;
+    margin-right:0.1rem;
+    border-radius: 0.05rem;
+}
+.hua .cun1{
+    width:2.02rem;
+    height:3.60rem;
+    background:url("../images/5.png") no-repeat;
+    background-size: 2.50rem 3.60rem;
+    box-shadow: 0 0 12px 2px #c6c6c6 ;
+    border:1px solid #fff;
+    float: left;border-radius: 0.05rem;
+}
+.hua img{
+    display: block;
+    width:2.08rem;
+    height:2.78rem;
+    margin:0 auto;
+    margin-top: -13px;
+    border:1px solid #fff;border-radius: 0.05rem;
+}
+.hua .shu{
+    width:100%;
+    height:auto;text-align:center;
+    margin-top:0.24rem;font-size: 0.24rem;
+    color: #333;
+}
+.hua .mao{
+    width:100%;
+    height:auto;text-align:center;
+    margin-top:0.02rem;
+    font-size: 0.18rem;color: #999;
+}
+.jin{
+    width:100%;
+    height:5.7rem;margin-top: 0.3rem;
+    background: url("../images/7.png") no-repeat 0.38rem 0.04rem;
+    background-size: 0.30rem 0.30rem;
+}
+.jin .yue{
+    width:6.68rem;
+    height:auto;
+    margin-left:0.82rem;
+    font-size: 0.30rem;
+    color: #333;
+}
+.jin .ying{
+    width:6.68rem;
+    height:auto;
+    margin-left:0.82rem;
+    font-size: 0.22rem;
+    color: #666;
+}
+.jin .xiakuai{
+    width:7.02rem;
+    height:2.22rem;
+    margin:0 auto;
+    margin-top: 0.2rem;border-radius: 0.05rem;
+    box-shadow: 0 0 12px 2px #c6c6c6 ;
+}
+.jin .xiakuai img{
+    display: block;
+    float: left;
+    width:1.28rem;
+    height:1.99rem;
+    margin:0.11rem 0.12rem;
+}
+.jin .pei{
+    width:5.32rem;
+    height:2.22rem;
+    float: right;
+    position: relative;
+}
+.jin a{
+    display: block;
+    color: #333;font-size: 0.28rem;
+    margin-top:0.15rem;
+}
+.jin .dian{
+    color: #999;font-size: 0.16rem;
+}
+.jin .dian1{
+    color: #999;font-size: 0.16rem;
+    margin-top: -0.04rem;
+}
+.jin .deng2{
+    color: #666;font-size: 0.22rem;
+}
+.jin .dian3{
+    color: #888;font-size: 0.16rem;
+}
+.jin .dian4{
+     color: #999;font-size: 0.16rem;
+    float: left;
+    margin-top:0.16rem;
+ }
+.jin .dian5{
+    color: #29a5db;font-size: 0.16rem;
+    float: left;margin-top: 0.16rem;
+}
+.jin .dian6{
+   position: absolute;
+    width:1.7rem;
+    height:0.06rem;
+    border-radius:0.03rem;
+    background: #d4d4d4;
+    left:0.75rem;
+    bottom:0.28rem;
+}
+.jin .dian7{
+    position: absolute;
+    width:0.6rem;
+    height:0.06rem;
+    border-radius:0.03rem;
+    background: #29a5db;
+    left:0.75rem;
+    bottom:0.28rem;
+}
+.jin .dian8{
+    position: absolute;
+    width:1.5rem;
+    height:0.44rem;
+    border-radius:0.22rem;
+    background: #29a5db;
+    right:0.1rem;
+    bottom:0.15rem;
+    color: #fff;
+    font-size:0.22rem;
+    text-align: center;line-height: 0.44rem;
+}
+@media all and (min-width:375px) {
+    body{
+        font-size: 12px;
+    }
+    .jin{
+        height:6.7rem;margin-top: 0.3rem;
+    }
+    .jin .xiakuai {
+        height: 2.72rem;
+    }
+    .jin .xiakuai img{
+        height:2.49rem;
+    }
+    .jin .pei{
+        height:2.72rem;
+    }
+    .jin .dian5{
+        color: #29a5db;font-size: 0.16rem;
+        float: left;margin-top: 0.16rem;
+        margin-left:0.06rem;
+    }
+    .jin .dian6{
+        left:1.15rem;
+    }
+    .jin .dian7{
+        left:1.15rem;
+    }
+    .jin .dian8{
+        width:1.7rem;
+    }
+}
+@media all and (min-width:414px) {
+    body{
+        font-size: 14px;
+    }
+    .jin{
+        height:6.7rem;margin-top: 0.3rem;
+    }
+    .jin .xiakuai {
+        height: 2.72rem;
+    }
+    .jin .xiakuai img{
+        height:2.49rem;
+    }
+    .jin .pei{
+        height:2.72rem;
+    }
+    .jin .deng2{
+        color: #666;font-size: 14px;
+    }
+    .jin .dian3{
+        color: #888;font-size: 14px;
+    }
+    .jin .dian5{
+        color: #29a5db;font-size: 0.16rem;
+        float: left;margin-top: 0.16rem;
+        margin-left:0.06rem;
+    }
+    .jin .dian6{
+        left:1.15rem;
+    }
+    .jin .dian7{
+        left:1.15rem;
+    }
+    .jin .dian8{
+        width:1.7rem;
+    }
+}
+@media all and (min-width:750px) {
+    .jin{
+        width:100%;
+        height:5.7rem;margin-top: 0.3rem;
+        background: url("../images/7.png") no-repeat 0.38rem 0.04rem;
+        background-size: 0.30rem 0.30rem;
+    }
+    .jin .yue{
+        width:6.68rem;
+        height:auto;
+        margin-left:0.82rem;
+        font-size: 0.30rem;
+        color: #333;
+    }
+    .jin .ying{
+        width:6.68rem;
+        height:auto;
+        margin-left:0.82rem;
+        font-size: 0.22rem;
+        color: #666;
+    }
+    .jin .xiakuai{
+        width:7.02rem;
+        height:2.22rem;
+        margin:0 auto;
+        margin-top: 0.2rem;border-radius: 0.05rem;
+        box-shadow: 0 0 12px 2px #c6c6c6 ;
+    }
+    .jin .xiakuai img{
+        display: block;
+        float: left;
+        width:1.28rem;
+        height:1.99rem;
+        margin:0.11rem 0.12rem;
+    }
+    .jin .pei{
+        width:5.32rem;
+        height:2.22rem;
+        float: right;
+        position: relative;
+    }
+    .jin a{
+        display: block;
+        color: #333;font-size: 0.28rem;
+        margin-top:0.15rem;
+    }
+    .jin .dian{
+        color: #999;font-size: 0.16rem;
+    }
+    .jin .dian1{
+        color: #999;font-size: 0.16rem;
+        margin-top: -0.04rem;
+    }
+    .jin .deng2{
+        color: #666;font-size: 0.22rem;
+    }
+    .jin .dian3{
+        color: #888;font-size: 0.16rem;
+    }
+    .jin .dian4{
+        color: #999;font-size: 0.16rem;
+        float: left;
+        margin-top:0.16rem;
+    }
+    .jin .dian5{
+        color: #29a5db;font-size: 0.16rem;
+        float: left;margin-top: 0.16rem;
+    }
+    .jin .dian6{
+        position: absolute;
+        width:1.7rem;
+        height:0.06rem;
+        border-radius:0.03rem;
+        background: #d4d4d4;
+        left:0.75rem;
+        bottom:0.28rem;
+    }
+    .jin .dian7{
+        position: absolute;
+        width:0.6rem;
+        height:0.06rem;
+        border-radius:0.03rem;
+        background: #29a5db;
+        left:0.75rem;
+        bottom:0.28rem;
+    }
+    .jin .dian8{
+        position: absolute;
+        width:1.5rem;
+        height:0.44rem;
+        border-radius:0.22rem;
+        background: #29a5db;
+        right:0.1rem;
+        bottom:0.15rem;
+        color: #fff;
+        font-size:0.22rem;
+        text-align: center;line-height: 0.44rem;
+    }
+}
+.content4{
+    width:100%;
+    height:1rem;
+    background: #151c2b;
+}
+.content4 .leftbox{
+     display: block;
+     width:33.3%;
+     height:0.95rem;
+     border-right:1px solid #717171;
+     background:linear-gradient(to left, #0b1018 0,#151c2a 50%,#0b1018 100%);
+     font-size: 0.24rem;
+     color: #fff;
+     text-align: center;
+    float: left;
+
+ }
+.content4 .leftbox img{
+    display: block;
+    width:0.52rem;
+    height:0.45rem;
+    margin:0 auto;
+    margin-top:0.12rem;
+}
+.content4 .leftbox1{
+    display: block;
+    width:33.3%;
+    height:0.95rem;
+    padding-top:0.60rem;
+    border-right:1px solid #717171;
+    background: url("../images/10.png") no-repeat 1rem 0.09rem;
+    font-size: 0.24rem;
+    background-size:0.46rem 0.46rem ;
+    color: #717171;
+    text-align: center;
+    float: left;
+}
+.content4 .leftbox2{
+    display: block;
+    width:33.3%;
+    height:0.95rem;
+    padding-top:0.60rem;
+    background: url("../images/11.png") no-repeat 1rem 0.09rem;
+    font-size: 0.24rem;
+    background-size:0.45rem 0.47rem ;
+    color: #717171;
+    text-align: center;
+    float: left;
+}
