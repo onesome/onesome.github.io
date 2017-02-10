@@ -1,0 +1,191 @@
+body,ul,ol,dl,h1,h2,h3,h4,h5,h6,p,input{
+    margin: 0;padding: 0;list-style: none;
+}
+img,input{
+    border: none;
+}
+a{
+    display:block;
+    text-decoration: none;
+}
+body{
+    font-family:"Helvetica Neue LT Rro","微软雅黑";font-size: 12px;color: #333;
+    background: #f5f5f5;
+    font-size:12px;
+    background:#040910;
+}
+*{
+    box-sizing:border-box;
+}
+/*导航*/
+.div{
+    width:100%;
+    height:119px;
+    background:#040910;
+}
+.div1{
+    width:119px;
+    height:119px;
+    border-radius:50%;
+    background:url(images/biaozhi.jpg);
+    margin:0 auto;
+}
+.div-1{
+    width:auto;
+    height:87px;
+    float:left;
+    border-bottom:5px solid #fff;
+    font-size:20px;
+    color:#fff;
+    margin-left:200px;
+    padding-top:50px;
+}
+.div-2{
+    color:#a8a8a8;
+    border-bottom:none;
+}
+.div-2:hover{
+    border-bottom:5px solid #fff;
+    color:#fff;
+}
+.div-3{
+    width:auto;
+    height:87px;
+    float:right;
+    font-size:20px;
+    color:#a8a8a8;
+    margin-right:200px;
+    padding-top:50px;
+}
+.div-4{
+    margin-right:160px;
+}
+.div-3:hover{
+    border-bottom:5px solid #fff;
+    color:#fff;
+}
+/*banner*/
+.banner{
+    width:100%;
+    height:880px;
+    background:url(images/images/banner.jpg);
+    background-position:bottom;
+    margin-bottom:89px;
+}
+.ck{
+    float:left;
+    width:275px;
+    height:64px;
+    border:2px solid #b9b9b9;
+    margin-left:288px;
+    margin-top:608px;
+    font-size:24px;
+    color:#b9b9b9;
+    text-align:center;
+    line-height:64px;
+}
+.ck:hover{
+    color:#fff;
+    border:2px solid #fff;
+}
+/*视频展示*/
+.top a img{
+    display: inline-block;
+    width:67px;
+    height:46px;
+    margin-left:200px;
+    margin-right:18px;
+    float:left;
+}
+.top{
+    height:46px;
+    color:#fff;
+    font-size:20px;
+    line-height:46px;
+    margin-bottom:21px;
+}
+.top1{
+    width:100%;
+    height:712px;
+    background:url(images/images/beijing_04.jpg);
+    background-position:100%;
+    padding-top:50px;
+    margin-bottom:89px;
+}
+.top-1{
+    width:1082px;
+    height:608px;
+    margin:0 auto;
+    position: relative;
+}
+.anniu{
+    width:103px;
+    height:116px;
+    position:absolute;
+    left:482px;
+    top:243px;
+}
+/*产品详情*/
+.yuan1{
+    width:824px;
+    height:824px;
+    border-radius:50%;
+    background:url(images/images/yuan_09.png);
+    margin-left:5%;
+    padding-top:162px;
+    margin-bottom:50px;
+}
+.box{
+    width:auto;
+    height:600px;
+    float:left;
+}
+.zi1{
+    font-size:14px;
+    color:#fff;
+    margin-left:110px;
+    margin-bottom:30px;
+}
+.zi2{
+    font-size:12px;
+    margin-bottom:0px;
+}
+.zi3{
+    font-size:14px;
+    color:#fff;
+    margin-left:110px;
+    margin-bottom:30px;
+    margin-top:30px;
+}
+.yuan2{
+    width:582px;
+    height:582px;
+    border-radius:50%;
+    background:url(images/images/chanpin_09.png);
+    margin:0 auto;
+    margin-left:495px;
+    transition:all 0.5s;
+}
+.yuan2:hover{
+    transform:translate(50px,50px);
+}
+/*产品规格*/
+.hezi{
+     width:1117px;
+     height:797px;
+     margin:0 auto;
+     background:#1f1f1f;
+    padding-top:18px;
+ }
+.hezi1{
+    width:1117px;
+    height:797px;
+    margin:0 auto;
+    background:#313030;
+    margin-left:-18px;
+}
+.hezi1-1{
+    width:1117px;
+    height:573px;
+    background:#fff;
+}
